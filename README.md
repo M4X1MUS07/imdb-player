@@ -21,7 +21,7 @@ To install the userscript:
 > - [Tampermonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 > - [Greasemonkey for Firefox](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 2. Install the script by visiting the link below:
-> - [IMDB Video Player - Stream from Vidsrc](https://greasyfork.org)
+> - [IMDB Video Player - Stream from Vidsrc](https://greasyfork.org/en/scripts/513145-imdb-video-player)
 3. Click the "Install this script" button in your Greasemonkey/Tampermonkey dashboard.
 
 # How it works
